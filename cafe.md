@@ -16,7 +16,7 @@ No dependencies needed to run code locally.
 
 ## Usage
 see pictures attached
-![cafe]()
+![cafe](https://github.com/cmmesoma/codingTasks/blob/d0de93a3bab5c300f5996e14b3032b8df24adffd/cafe_1.PNG)
 ![cafe]()
 
 
