@@ -15,7 +15,7 @@ No dependencies are needed to run code locally.
 
 ## Usage
 see pictures attached
-codingTasks\master\alternative_1.PNG
+[codingTasks\master\alternative_1.PNG](https://github.com/cmmesoma/codingTasks/blob/47a4aecff0cfff00e63d1c2653fe238f242b6a9d/alternative_1.PNG)https://github.com/cmmesoma/codingTasks/blob/47a4aecff0cfff00e63d1c2653fe238f242b6a9d/alternative_1.PNG
 
 
 
