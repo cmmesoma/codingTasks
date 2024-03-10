@@ -1,6 +1,6 @@
 # cafe.py
 
-## Description
+# Description
 The aim of this task is to calculate the total stock worth in this Nigerian cafe.
 Tools like lists, dicionaries, and for loop statements are used
 
@@ -16,6 +16,8 @@ No dependencies needed to run code locally.
 
 ## Usage
 see pictures attached
+![cafe]()
+![cafe]()
 
 
 ## Credits
