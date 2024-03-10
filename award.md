@@ -1,8 +1,8 @@
 # award.py
 
-## Description
+# Description
 
-# this helps to improve our practical knowledge of int and str functions.
+## this helps to improve our practical knowledge of int and str functions.
 the aim is to determine our knowledge of if, elif and else statements
 
 ## Table of Contents
