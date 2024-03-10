@@ -18,7 +18,7 @@ No dependencies needed to run code locally.
 ## Usage
 a DOB.txt must exist in the local directory before this code can be executed.
 see pictures attached
-![dob]()
+![dob](https://github.com/cmmesoma/codingTasks/blob/e3715fdf9ce5e44b6922191c951b80a7f0333db7/dob_1.PNG)
 ![dob]()
 ![dob]()
 
