@@ -11,10 +11,12 @@
 
 ## Installation
 
-No dependencies needed to run code locally.
+No dependencies are needed to run code locally.
 
 ## Usage
 see pictures attached
+![alternative_1](meso/alternative_1.png)
+
 
 
 ## Credits
