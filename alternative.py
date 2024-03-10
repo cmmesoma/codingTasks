@@ -1,5 +1,5 @@
 # python programming task
-# the aim of this task is to dtermine our abilities to create alternate and manipulate characters and words in a string
+# the aim of this task is to determine our abilities to create alternate and manipulate characters and words in a string
 # range, input, len, upper and lower, and split functions were used.
 # for loop, if and else statements were used.
 
