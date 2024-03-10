@@ -1,7 +1,7 @@
 # alternative.py
 
-## Description
-# the aim of this task is to determine our abilities to create alternate and manipulate characters and words in a string.
+# Description
+## the aim of this task is to determine our abilities to create alternate and manipulate characters and words in a string.
 
 ## Table of Contents
 
