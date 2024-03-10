@@ -15,7 +15,7 @@ No dependencies are needed to run code locally.
 
 ## Usage
 see pictures attached
-codingTasks/alternative_1.PNG in master
+codingTasks/master/alternative_1.PNG
 
 
 
