@@ -15,7 +15,7 @@ No dependencies are needed to run code locally.
 
 ## Usage
 see pictures attached
-![alternative_1](meso/alternative_1.png)
+![alternative_1](codingTasks/alternative_1.png)
 
 
 
