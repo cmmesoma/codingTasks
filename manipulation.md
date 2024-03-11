@@ -1,7 +1,7 @@
 # manipulation.py
 
-## Description
-# the aim of this task is to prove our understanding of slicing, replace function, and length function
+# Description
+## the aim of this task is to prove our understanding of slicing, replace function, and length function
 
 # Table of Contents
 
@@ -15,7 +15,7 @@ No dependencies needed to run code locally.
 
 ## Usage
 see pictures attached
-
+![manipulation]()
 
 ## Credits
 
