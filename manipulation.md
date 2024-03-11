@@ -15,6 +15,7 @@ No dependencies needed to run code locally.
 
 ## Usage
 see pictures attached
+![manipulation](https://github.com/cmmesoma/codingTasks/blob/b943914fac392041b73af5eb2c8012d950ae3537/mani_1.PNG)
 ![manipulation]()
 
 ## Credits
