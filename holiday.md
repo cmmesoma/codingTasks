@@ -14,7 +14,7 @@ No dependencies needed to run code locally.
 
 ## Usage
 see pictures attached
-![holiday]()
+![holiday](https://github.com/cmmesoma/codingTasks/blob/3b4bf37d730f52507b657d3edaa5005a2ee63c10/holi_1.PNG)
 ![holiday]()
 ![holiday]()
 
