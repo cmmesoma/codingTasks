@@ -1,7 +1,7 @@
 # while.py
 
 # Description
-## program promotes our practical knowledge of while loop statement, if statement, casting and arithematics
+## program focuses on our practical knowledge of while loop statement, if statement, casting and arithematics
 
 # Table of Contents
 
