@@ -1,7 +1,7 @@
 # numbers_1.py
 
-## Description
-#this helps to improve our practical knowledge of int and str functions.
+# Description
+## this helps to improve our practical knowledge of int and str functions.
 #casting, arithematics
 
 # Table of Contents
@@ -16,6 +16,7 @@ No dependencies needed to run code locally.
 
 ## Usage
 see pictures attached
+![numbers]()
 
 
 ## Credits
